@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Giới thiệu cơ bản về .Net Framework
+categories: dotnet
 ---
 Sự ra đời của .Net  
 .NET Framework của Microsoft là một nền tảng lập trình tập hợp các thư viện lập trình có thể được cài thêm hoặc đã có sẵn trong các hệ điều hành Windows. Nó cung cấp những giải pháp thiết yếu cho những yêu cầu thông thường của các chương trình điện toán như:
